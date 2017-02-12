@@ -5,6 +5,6 @@ Solutions to hacker-rank problems. Updated every week
 Section | Completed
 ------------ | -------------
 Arrays |  2 / 7
-Linked Lists | 10 / 16
+Linked Lists | 16 / 16
 
 ###Algorithms

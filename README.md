@@ -6,5 +6,6 @@ Section | Completed
 ------------ | -------------
 Arrays |  6 / 7
 Linked Lists | 16 / 16
+Trees | 8 / 13
 
 ###Algorithms
